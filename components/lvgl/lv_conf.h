@@ -259,12 +259,15 @@ typedef void * lv_indev_drv_user_data_t;            /*Type of user data in the i
  * https://fonts.google.com/specimen/Roboto  */
 #define LV_FONT_ROBOTO_12    0
 #define LV_FONT_ROBOTO_16    1
-#define LV_FONT_ROBOTO_22    0
-#define LV_FONT_ROBOTO_28    0
+#define LV_FONT_ROBOTO_22    1
+#define LV_FONT_ROBOTO_28    1
 
 /*Pixel perfect monospace font
  * http://pelulamu.net/unscii/ */
 #define LV_FONT_UNSCII_8     0
+#define LV_FONT_SONGTI_22    1
+#define LV_FONT_SONGTI_16    1
+#define LV_FONT_SONTI_SIMPLE_32    1
 
 /* Optionally declare your custom fonts here.
  * You can use these fonts as default font too
